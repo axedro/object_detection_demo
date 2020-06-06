@@ -1,0 +1,532 @@
+{
+    "name": "oficina_test",
+    "securityToken": "oficina_test Token",
+    "sourceConnection": {
+        "name": "video oficina",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZTU5MDFhMzdiODAxNWYxOTA2YTIxYTczYTcxY2U1MDYyNjgyODhjOWFkN2ZiOTFmNDAyMzlmZTczZDlkNDQ2MzY2NWYyZjZmZDFiYzBjZjQ2MjNjYTQ3YWI2MjZjZTVjMzRmZTI0ZWUzNGNlMzVlZjgzMjI2MzY4ZWJjZDE2MTdhNWZiYWU1NzI1OGFlMGIxOTRiNTg4YzM3MWE4YWI3NCIsIml2IjoiMzJlOWViNWU1N2ViYTIxNjVmN2VkMTliYzE1MWY3ZGQ5NTk3ZTQyNmM2OTM3MjY2In0="
+        },
+        "id": "jqlBzVK3b"
+    },
+    "targetConnection": {
+        "name": "video oficina",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYmM2M2FmMTNkOTFhNjQyZjM3M2EwZmEzNTNjMGQwNDg5Nzg2YWRlZTljNzYyMzlkNzdhZWM1YmJlZmMxYmI4MzI1ZjQxMmIwMDJhMGFjZTk0MGQxY2M4ZmYzMTczOTIzNjM0OTNmOWMxZjQzMjBkYzVmNmNhMjNjOTEzMWIyMmM2ZmViNmE3ZGU1N2MyYTQ1MGQyYTBlYzZhNzdmZDUwMiIsIml2IjoiYzZlYWNkNGQ0Y2NmZDM2ZDU5OGE4NmUzOWJmN2JlMmViOWZkNTgzNzllNTI5NzQwIn0="
+        },
+        "id": "jqlBzVK3b"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "head",
+            "color": "#FF00FF"
+        }
+    ],
+    "id": "xNdYWEDNI",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "pascalVOC",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNWI5NmEzMmQyM2Y4M2IxNTJkOWQ1Y2IwMmJhNzlhZDcxYjY3MTVjMjE3MDk4OTI3M2Y0MzQ2NWQ4Y2FjM2YzZTNjZmYzODdiM2UxY2ExNGIwNGRiZjZkZjA3ZTdkNjUxOWQ2ODMxMTNkODgwZGNjNmVhMjVjMDIyY2IzODkwYmQwMWU4YmExYzliNjlhYzk5MGY3ZmViODZiODM1Y2M4NiIsIml2IjoiMzQyN2UyZDMzZGQ4ZmZiYjViZjA5Y2JhNDIxODE5MjdhOTMwMWZjYWQzN2Y5ODJjIn0="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "b46669cf413d58e2c59371090b0d1ece",
+    "assets": {
+        "b46669cf413d58e2c59371090b0d1ece": {
+            "format": "mp4",
+            "id": "b46669cf413d58e2c59371090b0d1ece",
+            "name": "custom_ofi_corto.mp4",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 2
+        },
+        "251c5334a3f0fc7307a5a085b08e2516": {
+            "id": "251c5334a3f0fc7307a5a085b08e2516",
+            "format": "mp4",
+            "state": 1,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=3",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=3",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 3
+        },
+        "27a5ce119956653d1edaaa7d97822148": {
+            "id": "27a5ce119956653d1edaaa7d97822148",
+            "format": "266667",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=3.266667",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=3.266667",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 3.266667
+        },
+        "dfc0427acc699f25d7d1cd2ef6f905d8": {
+            "id": "dfc0427acc699f25d7d1cd2ef6f905d8",
+            "format": "733333",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=11.733333",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=11.733333",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 11.733333
+        },
+        "6e3a24319e3451f572db667219072f66": {
+            "id": "6e3a24319e3451f572db667219072f66",
+            "format": "4",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=19.4",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=19.4",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 19.4
+        },
+        "944e74bb262a5fa9d33af54f752b7c3d": {
+            "id": "944e74bb262a5fa9d33af54f752b7c3d",
+            "format": "133333",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=21.133333",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=21.133333",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 21.133333
+        },
+        "cfbc396290793f49d89bace2ceefb42c": {
+            "id": "cfbc396290793f49d89bace2ceefb42c",
+            "format": "533333",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=25.533333",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=25.533333",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 25.533333
+        },
+        "2413ad3895ccce25f4d1d44c8aabe96c": {
+            "id": "2413ad3895ccce25f4d1d44c8aabe96c",
+            "format": "333333",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=28.333333",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=28.333333",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 28.333333
+        },
+        "27dd225c6670974fbf2f57e083be5b30": {
+            "id": "27dd225c6670974fbf2f57e083be5b30",
+            "format": "266667",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=30.266667",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=30.266667",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 30.266667
+        },
+        "fe1457023043018bbe40ecc9d166b37d": {
+            "id": "fe1457023043018bbe40ecc9d166b37d",
+            "format": "533333",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=35.533333",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=35.533333",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 35.533333
+        },
+        "664fa0f486980fcd74db3df8161c7eec": {
+            "id": "664fa0f486980fcd74db3df8161c7eec",
+            "format": "333333",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=37.333333",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=37.333333",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 37.333333
+        },
+        "974cb9625ba2361d42f5dbfdd852789f": {
+            "id": "974cb9625ba2361d42f5dbfdd852789f",
+            "format": "333333",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=39.333333",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=39.333333",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 39.333333
+        },
+        "497b90a2652fc4b8ca4b93a886c263fb": {
+            "id": "497b90a2652fc4b8ca4b93a886c263fb",
+            "format": "mp4",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=42",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=42",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 42
+        },
+        "51eafcaf414f77f216d96f5209da1158": {
+            "id": "51eafcaf414f77f216d96f5209da1158",
+            "format": "8",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=50.8",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=50.8",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 50.8
+        },
+        "730f1c07c4e119355ca5fb8593259064": {
+            "id": "730f1c07c4e119355ca5fb8593259064",
+            "format": "533333",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=52.533333",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=52.533333",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 52.533333
+        },
+        "ec30d1ef37712060324acfd3813c774e": {
+            "id": "ec30d1ef37712060324acfd3813c774e",
+            "format": "066667",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=56.066667",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=56.066667",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 56.066667
+        },
+        "b95e274a6ec7ce1c0fdefffc3ec2f1a9": {
+            "id": "b95e274a6ec7ce1c0fdefffc3ec2f1a9",
+            "format": "133333",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=63.133333",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=63.133333",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 63.133333
+        },
+        "864bf9c69b04e1e3d03ff7e4322c47c6": {
+            "id": "864bf9c69b04e1e3d03ff7e4322c47c6",
+            "format": "533333",
+            "state": 2,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=64.533333",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=64.533333",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 64.533333
+        },
+        "04157b4cf90bec680ab9034ae70d97df": {
+            "id": "04157b4cf90bec680ab9034ae70d97df",
+            "format": "mp4",
+            "state": 1,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=71",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=71",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 71
+        },
+        "2b94f4be39b35dcf0ba90c4d6d39844f": {
+            "id": "2b94f4be39b35dcf0ba90c4d6d39844f",
+            "format": "4",
+            "state": 1,
+            "type": 3,
+            "name": "custom_ofi_corto.mp4#t=4.4",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=4.4",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "parent": {
+                "format": "mp4",
+                "id": "b46669cf413d58e2c59371090b0d1ece",
+                "name": "custom_ofi_corto.mp4",
+                "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 2,
+                "type": 2
+            },
+            "timestamp": 4.4
+        }
+    }
+}

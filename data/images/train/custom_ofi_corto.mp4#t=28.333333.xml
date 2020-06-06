@@ -1,0 +1,15 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>custom_ofi_corto.mp4#t=28.333333.jpg</filename>
+    <path>oficina_test-PascalVOC-export/Annotations/custom_ofi_corto.mp4#t=28.333333.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    
+</annotation>
