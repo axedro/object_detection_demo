@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>custom_ofi_corto.mp4#t=0.jpg</filename>
+    <path>oficina_test-PascalVOC-export/Annotations/custom_ofi_corto.mp4#t=0.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>head</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>772.4664602683179</xmin>
+        <ymin>36.01548165137615</ymin>
+        <xmax>808.9783281733746</xmax>
+        <ymax>95.19667431192661</ymax>
+    </bndbox>
+</object><object>
+    <name>head</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>833.2249742002064</xmin>
+        <ymin>77.91399082568807</ymin>
+        <xmax>879.8710010319917</xmax>
+        <ymax>128.86410550458714</ymax>
+    </bndbox>
+</object><object>
+    <name>head</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>930.7791537667699</xmin>
+        <ymin>114.22362385321101</ymin>
+        <xmax>970.8049535603716</xmax>
+        <ymax>168.46616972477065</ymax>
+    </bndbox>
+</object><object>
+    <name>head</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1073.5552115583075</xmin>
+        <ymin>195.44552752293578</ymin>
+        <xmax>1128.0701754385964</xmax>
+        <ymax>258.17717889908255</ymax>
+    </bndbox>
+</object>
+</annotation>

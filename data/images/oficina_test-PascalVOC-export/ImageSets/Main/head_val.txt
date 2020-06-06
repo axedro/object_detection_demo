@@ -1,4 +1,1 @@
-custom_ofi_corto.mp4#t=64.533333.jpg -1
-custom_ofi_corto.mp4#t=63.133333.jpg -1
-custom_ofi_corto.mp4#t=56.066667.jpg -1
-custom_ofi_corto.mp4#t=52.533333.jpg -1
+custom_ofi_corto.mp4#t=65.533333.jpg 1
