@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>custom_ofi_corto.mp4#t=43.6.jpg</filename>
+    <path>oficina_test-PascalVOC-export/Annotations/custom_ofi_corto.mp4#t=43.6.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>head</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>650.6811145510836</xmin>
+        <ymin>56.69380733944954</ymin>
+        <xmax>683.7564499484005</xmax>
+        <ymax>104.50630733944953</ymax>
+    </bndbox>
+</object><object>
+    <name>head</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1058.0237358101135</xmin>
+        <ymin>185.90366972477065</ymin>
+        <xmax>1106.486068111455</xmax>
+        <ymax>248.7591743119266</ymax>
+    </bndbox>
+</object>
+</annotation>

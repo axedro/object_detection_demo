@@ -1,0 +1,92 @@
+{
+    "asset": {
+        "id": "113a713fb37568864c06a9c1c54fd43d",
+        "format": "6",
+        "state": 2,
+        "type": 3,
+        "name": "custom_ofi_corto.mp4#t=43.6",
+        "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4#t=43.6",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "parent": {
+            "format": "mp4",
+            "id": "b46669cf413d58e2c59371090b0d1ece",
+            "name": "custom_ofi_corto.mp4",
+            "path": "file:/Users/alejandromedina/object_detection_demo/data/images/custom_ofi_corto.mp4",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 2
+        },
+        "timestamp": 43.6
+    },
+    "regions": [
+        {
+            "id": "UEQIgtLVM",
+            "type": "RECTANGLE",
+            "tags": [
+                "head"
+            ],
+            "boundingBox": {
+                "height": 47.8125,
+                "width": 33.07533539731682,
+                "left": 650.6811145510836,
+                "top": 56.69380733944954
+            },
+            "points": [
+                {
+                    "x": 650.6811145510836,
+                    "y": 56.69380733944954
+                },
+                {
+                    "x": 683.7564499484004,
+                    "y": 56.69380733944954
+                },
+                {
+                    "x": 683.7564499484004,
+                    "y": 104.50630733944955
+                },
+                {
+                    "x": 650.6811145510836,
+                    "y": 104.50630733944955
+                }
+            ]
+        },
+        {
+            "id": "QBEvh0Zw9",
+            "type": "RECTANGLE",
+            "tags": [
+                "head"
+            ],
+            "boundingBox": {
+                "height": 62.85550458715597,
+                "width": 48.46233230134159,
+                "left": 1058.0237358101135,
+                "top": 185.90366972477065
+            },
+            "points": [
+                {
+                    "x": 1058.0237358101135,
+                    "y": 185.90366972477065
+                },
+                {
+                    "x": 1106.486068111455,
+                    "y": 185.90366972477065
+                },
+                {
+                    "x": 1106.486068111455,
+                    "y": 248.7591743119266
+                },
+                {
+                    "x": 1058.0237358101135,
+                    "y": 248.7591743119266
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

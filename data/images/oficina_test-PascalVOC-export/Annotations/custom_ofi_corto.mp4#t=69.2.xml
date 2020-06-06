@@ -1,7 +1,7 @@
 <annotation verified="yes">
     <folder>Annotation</folder>
-    <filename>custom_ofi_corto.mp4#t=65.533333.jpg</filename>
-    <path>oficina_test-PascalVOC-export/Annotations/custom_ofi_corto.mp4#t=65.533333.jpg</path>
+    <filename>custom_ofi_corto.mp4#t=69.2.jpg</filename>
+    <path>oficina_test-PascalVOC-export/Annotations/custom_ofi_corto.mp4#t=69.2.jpg</path>
     <source>
         <database>Unknown</database>
     </source>
@@ -17,21 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>820.9339525283798</xmin>
-        <ymin>115.81307339449542</ymin>
-        <xmax>870.8720330237359</xmax>
-        <ymax>172.83199541284404</ymax>
-    </bndbox>
-</object><object>
-    <name>head</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-        <xmin>721.016511867905</xmin>
-        <ymin>113.66628440366974</ymin>
+        <xmin>726.4602683178534</xmin>
+        <ymin>119.53383027522936</ymin>
         <xmax>764.8658410732714</xmax>
-        <ymax>164.01777522935782</ymax>
+        <ymax>165.94782110091745</ymax>
     </bndbox>
 </object><object>
     <name>head</name>
@@ -39,10 +28,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>854.5872033023736</xmin>
-        <ymin>94.58772935779817</ymin>
-        <xmax>896.9865841073272</xmax>
-        <ymax>135.0928899082569</ymax>
+        <xmin>863.6790505675955</xmin>
+        <ymin>88.00286697247707</ymin>
+        <xmax>901.578947368421</xmax>
+        <ymax>140.87786697247708</ymax>
     </bndbox>
 </object><object>
     <name>head</name>
@@ -50,10 +39,21 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-        <xmin>1063.405572755418</xmin>
-        <ymin>185.50114678899084</ymin>
-        <xmax>1119.4788441692467</xmax>
-        <ymax>250.33314220183487</ymax>
+        <xmin>1062.5128998968007</xmin>
+        <ymin>78.10493119266056</ymin>
+        <xmax>1105.5779153766769</xmax>
+        <ymax>126.34575688073396</ymax>
+    </bndbox>
+</object><object>
+    <name>head</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1064.391124871001</xmin>
+        <ymin>186.80160550458717</ymin>
+        <xmax>1119.0196078431372</xmax>
+        <ymax>247.6651376146789</ymax>
     </bndbox>
 </object>
 </annotation>
