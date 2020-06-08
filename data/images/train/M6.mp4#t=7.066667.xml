@@ -1,0 +1,125 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>M6.mp4#t=7.066667.jpg</filename>
+    <path>Carretera-PascalVOC-export/Annotations/M6.mp4#t=7.066667.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>126.35448916408669</xmin>
+        <ymin>200.30676605504587</ymin>
+        <xmax>174.18988648090814</xmax>
+        <ymax>235.79071100917432</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>166.95820433436532</xmin>
+        <ymin>217.6075114678899</ymin>
+        <xmax>208.24303405572755</xmax>
+        <ymax>251.72133027522935</ymax>
+    </bndbox>
+</object><object>
+    <name>van</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>251.0345717234262</xmin>
+        <ymin>185.16571100917432</ymin>
+        <xmax>279.7110423116615</xmax>
+        <ymax>211.36324541284404</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>229.63364293085655</xmin>
+        <ymin>172.38560779816515</ymin>
+        <xmax>252.54127966976264</xmax>
+        <ymax>194.1734518348624</ymax>
+    </bndbox>
+</object><object>
+    <name>van</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>220.39473684210526</xmin>
+        <ymin>149.51146788990826</ymin>
+        <xmax>247.02786377708978</xmax>
+        <ymax>174.00602064220183</ymax>
+    </bndbox>
+</object><object>
+    <name>truck</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>246.16615067079462</xmin>
+        <ymin>139.0923165137615</ymin>
+        <xmax>275.7765737874097</xmax>
+        <ymax>169.05189220183487</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>278.4029927760578</xmin>
+        <ymin>154.69524082568807</ymin>
+        <xmax>301.35706914344684</xmax>
+        <ymax>166.1026376146789</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>519.140866873065</xmin>
+        <ymin>241.89306192660553</ymin>
+        <xmax>606.1764705882352</xmax>
+        <ymax>303.4635894495413</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>347.28844169246645</xmin>
+        <ymin>137.05905963302754</ymin>
+        <xmax>364.7626418988648</xmax>
+        <ymax>151.41313073394497</ymax>
+    </bndbox>
+</object><object>
+    <name>truck</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>345.9571723426213</xmin>
+        <ymin>119.10808486238533</ymin>
+        <xmax>362.14912280701753</xmax>
+        <ymax>137.18549311926606</ymax>
+    </bndbox>
+</object>
+</annotation>
